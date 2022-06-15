@@ -34,6 +34,8 @@ pickUp("assets/staff.png","600","100")
 
 
 
+
+
 // let pineTree =document.createElement("img")
 // pineTree.src = "assets/pine-tree.png"
 // pineTree.style.position = "fixed"
